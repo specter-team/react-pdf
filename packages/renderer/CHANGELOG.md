@@ -1,4 +1,4 @@
-# @react-pdf/renderer
+# @specter-team/react-pdf-renderer
 
 ## 4.2.1
 

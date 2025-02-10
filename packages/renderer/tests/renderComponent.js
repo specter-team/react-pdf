@@ -1,7 +1,7 @@
 import Canvas from 'canvas';
 import pdfjs from 'pdfjs-dist/legacy/build/pdf';
 
-import { renderToBuffer } from '@react-pdf/renderer';
+import { renderToBuffer } from '@specter-team/react-pdf-renderer';
 
 /**
  * copy-pasted code from

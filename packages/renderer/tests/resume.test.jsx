@@ -9,7 +9,7 @@ import {
   Image,
   Document,
   StyleSheet,
-} from '@react-pdf/renderer';
+} from '@specter-team/react-pdf-renderer';
 import renderToImage from './renderComponent';
 
 const headerStyles = StyleSheet.create({

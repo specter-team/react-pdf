@@ -1,6 +1,13 @@
 import { describe, expect, test } from 'vitest';
 
-import { Document, Page, Svg, Font, Text, Tspan } from '@react-pdf/renderer';
+import {
+  Document,
+  Page,
+  Svg,
+  Font,
+  Text,
+  Tspan,
+} from '@specter-team/react-pdf-renderer';
 import renderToImage from './renderComponent';
 import { Tiger, Chart, Chart2, Gradients, Dasharrays } from './svgs';
 

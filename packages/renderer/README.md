@@ -2,8 +2,8 @@
   <img src="https://user-images.githubusercontent.com/5600341/27505816-c8bc37aa-587f-11e7-9a86-08a2d081a8b9.png" height="280px">
   <p align="center">React renderer for creating PDF files on the browser and server<p>
   <p align="center">
-    <a href="https://www.npmjs.com/package/@react-pdf/renderer">
-      <img src="https://img.shields.io/npm/v/@react-pdf/renderer.svg" />
+    <a href="https://www.npmjs.com/package/@specter-team/react-pdf-renderer">
+      <img src="https://img.shields.io/npm/v/@specter-team/react-pdf-renderer.svg" />
     </a>
     <a href="https://travis-ci.org/diegomura/react-pdf">
       <img src="https://img.shields.io/travis/diegomura/react-pdf.svg" />
@@ -23,13 +23,19 @@
 ## How to install
 
 ```sh
-yarn add @react-pdf/renderer
+yarn add @specter-team/react-pdf-renderer
 ```
 
 ## How it works
 
 ```jsx
-import { Document, Page, Text, View, StyleSheet } from '@react-pdf/renderer';
+import {
+  Document,
+  Page,
+  Text,
+  View,
+  StyleSheet,
+} from '@specter-team/react-pdf-renderer';
 
 // Create styles
 const styles = StyleSheet.create({
@@ -63,7 +69,7 @@ const MyDocument = () => (
 
 ```jsx
 import ReactDOM from 'react-dom';
-import { PDFViewer } from '@react-pdf/renderer';
+import { PDFViewer } from '@specter-team/react-pdf-renderer';
 
 const App = () => (
   <PDFViewer>
@@ -77,7 +83,7 @@ ReactDOM.render(<App />, document.getElementById('root'));
 ### `Node.` Save in a file
 
 ```jsx
-import ReactPDF from '@react-pdf/renderer';
+import ReactPDF from '@specter-team/react-pdf-renderer';
 
 ReactPDF.render(<MyDocument />, `${__dirname}/example.pdf`);
 ```
@@ -159,4 +165,4 @@ MIT © [Diego Muracciole](http://github.com/diegomura)
 
 ---
 
-![](https://img.shields.io/npm/dt/@react-pdf/renderer.svg?style=flat)
+![](https://img.shields.io/npm/dt/@specter-team/react-pdf-renderer.svg?style=flat)
