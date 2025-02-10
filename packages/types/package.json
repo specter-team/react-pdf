@@ -8,7 +8,7 @@
   "main": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/diegomura/react-pdf.git",
+    "url": "https://github.com/specter-team/react-pdf.git",
     "directory": "packages/types"
   },
   "dependencies": {
