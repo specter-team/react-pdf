@@ -1,6 +1,6 @@
 {
   "name": "@specter-team/react-pdf-renderer",
-  "version": "4.2.1",
+  "version": "1.0.0",
   "license": "MIT",
   "description": "Create PDF files on the browser and server",
   "author": "Diego Muracciole <diegomuracciole@gmail.com>",
