@@ -1,12 +1,11 @@
 {
   "private": true,
-  "name": "@react-pdf/root",
+  "name": "@specter-team/react-pdf",
   "version": "2.0.0",
   "license": "MIT",
-  "author": "Diego Muracciole <diegomuracciole@gmail.com>",
-  "homepage": "https://github.com/diegomura/react-pdf#readme",
+  "author": "Dan <geonwhi.jung@specter.co.kr>",
   "type": "module",
-  "repository": "git@github.com:diegomura/react-pdf.git",
+  "repository": "git@github.com:specter-team/react-pdf.git",
   "workspaces": [
     "packages/*",
     "packages/examples/*",
