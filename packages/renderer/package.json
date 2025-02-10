@@ -33,7 +33,7 @@
     "@react-pdf/primitives": "^4.1.0",
     "@react-pdf/reconciler": "^1.1.3",
     "@specter-team/react-pdf-layout": "^4.2.2",
-    "@specter-team/renderer": "4.2.1",
+    "@specter-team/react-pdf-render": "4.1.1",
     "@react-pdf/types": "^2.7.1",
     "events": "^3.3.0",
     "object-assign": "^4.1.1",
