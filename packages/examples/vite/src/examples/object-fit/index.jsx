@@ -6,7 +6,7 @@ import {
   Image,
   Text,
   StyleSheet,
-} from '@react-pdf/renderer';
+} from '@specter-team/react-pdf-renderer';
 
 const styles = StyleSheet.create({
   image: {

@@ -1,5 +1,11 @@
 import React from 'react';
-import { Page, Document, Link, View, Image } from '@react-pdf/renderer';
+import {
+  Page,
+  Document,
+  Link,
+  View,
+  Image,
+} from '@specter-team/react-pdf-renderer';
 
 const GoTo = () => (
   <Document>

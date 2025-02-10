@@ -11,7 +11,7 @@ import {
   Select,
   List,
   StyleSheet,
-} from '@react-pdf/renderer';
+} from '@specter-team/react-pdf-renderer';
 
 const styles = StyleSheet.create({
   fieldset: {

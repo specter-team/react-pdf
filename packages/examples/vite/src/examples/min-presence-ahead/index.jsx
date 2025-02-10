@@ -1,5 +1,5 @@
 import React from 'react';
-import { Document, Page, View, Text } from '@react-pdf/renderer';
+import { Document, Page, View, Text } from '@specter-team/react-pdf-renderer';
 
 const palette = [
   '#781c81',

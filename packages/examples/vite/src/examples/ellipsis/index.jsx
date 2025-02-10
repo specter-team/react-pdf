@@ -6,7 +6,7 @@ import {
   View,
   StyleSheet,
   Font,
-} from '@react-pdf/renderer';
+} from '@specter-team/react-pdf-renderer';
 
 import RobotoFont from '../../../public/Roboto-Regular.ttf';
 

@@ -1,5 +1,11 @@
 import React from 'react';
-import { Document, Page, Text, StyleSheet, Font } from '@react-pdf/renderer';
+import {
+  Document,
+  Page,
+  Text,
+  StyleSheet,
+  Font,
+} from '@specter-team/react-pdf-renderer';
 
 import RobotoFont from '../../../public/Roboto-Regular.ttf';
 import RobotoFontMedium from '../../../public/Roboto-Medium.ttf';

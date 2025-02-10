@@ -1,5 +1,5 @@
 import React from 'react';
-import { Page, Document } from '@react-pdf/renderer';
+import { Page, Document } from '@specter-team/react-pdf-renderer';
 
 import Fractal from './Fractal';
 

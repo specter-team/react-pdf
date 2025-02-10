@@ -6,7 +6,7 @@ import {
   PDFViewer,
   PDFDownloadLink,
   Text,
-} from '@react-pdf/renderer';
+} from '@specter-team/react-pdf-renderer';
 
 export default function Home() {
   const doc = (

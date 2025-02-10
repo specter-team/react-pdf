@@ -1,5 +1,5 @@
 {
-  "name": "@react-pdf/layout",
+  "name": "@specter-team/react-pdf-layout",
   "version": "4.2.2",
   "license": "MIT",
   "description": "Resolve overall document component's layout",
